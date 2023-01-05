@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+This project serves as Front End part of the project here: https://github.com/Apulatjonov/ReactBookAppBackend
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
